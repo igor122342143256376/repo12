@@ -1,0 +1,100 @@
+    1  cd ~/git-branch
+    2  git remote add origin https://github.com/igor122342143256376/git-branch.git
+    3  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/1000HelloWorld.sh
+    4  git checkout -b file-delete-branch
+    5  git add 1000HelloWorld.sh
+    6  git add 1000HelloWorld.sh
+    7  git commit -m "Add 1000HelloWorld.sh file"
+    8  git push -u origin file-delete-branch
+    9  git pull
+   10  git pull file-delete-branch
+   11  file-delete-branch
+   12  eval `ssh-agent -s`
+   13  ssh-add C:/Users/vboxuser/itch
+   14  git pull file-delete-branch
+   15  git pull -u origin file-delete-branch
+   16  git push -u origin file-delete-branch
+   17  [200~git pull origin file-delete-branch --rebase
+   18  git pull origin file-delete-branch --rebase
+   19  cd ~/git-branch
+   20  cd ~/git-branch
+   21  git rebase --abort
+   22  git pull origin file-delete-branch
+   23  ls
+   24  rm 1000HelloWorld.sh 
+   25  git pull origin file-delete-branch
+   26  git pull origin file-delete-branch --rebase
+   27  git reset --hard HEAD~1
+   28  git reset --hard
+   29  git pull origin file-delete-branch --rebase
+   30  ls
+   31  git rebase --abort
+   32  rm 1000HelloWorld.sh 
+   33  git rebase --abort
+   34  git reset --hard
+   35  git reset --hard
+   36  ls
+   37  git reset --hard
+   38  git reset --hard
+   39  git reset --hard file-delete-branch
+   40  git reset --hard HEAD 2
+   41  git reset --hard HEAD2
+   42  ls -l
+   43  rm -rf test_repo1
+   44  rm -rf test_repo
+   45  clear
+   46  cd ~
+   47  pwd
+   48  git clone https://github.com/igor122342143256376/test_repo1.git
+   49  cd test_repo1/
+   50  cd ~
+   51  cd ~
+   52* cd test_rep
+   53  cd ~
+   54  pwd
+   55  pwd
+   56  cd test_repo1
+   57  git checkout -b my-feature
+   58  ls -la
+   59  date >> README.md
+   60  cat README.md 
+   61  git branch
+   62  git status
+   63  git add README.md
+   64  git status
+   65  git commit -m "Add current date to README.md"
+   66  git status
+   67  git push origin my-feature
+   68  git push origin my-feature 
+   69  git push origin my-feature/
+   70  git push origin my-feature"
+   71  git push origin my-feature
+   72  git remote -v
+   73  cd ..
+   74  cd repo12
+   75  ls
+   76  git branch
+   77  ls -la
+   78  cd ~
+   79  ls -la
+   80  rm -rf
+   81  rm -rf repo12
+   82  clear
+   83  cd ~
+   84  pdw
+   85  pwd
+   86  ls -l
+   87  git clone https://github.com/igor122342143256376/repo12.git
+   88  cd repo12
+   89  ls -la
+   90  git checkout -b feature
+   91  cd ..
+   92  cd repo12
+   93  echo "# Project 12" > README.md
+   94  echo "*.exe" >> .gitignore
+   95  git add README.md .gitignore
+   96  git commit -m "Add README.md and update .gitignore"
+   97  git push origin feature
+   98  git checkout main
+   99  git merge feature
+  100  history > history.txt
